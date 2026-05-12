@@ -23,6 +23,7 @@ The objective of this project is to demonstrate advanced data visualization, sto
 View the interactive dashboard here:
 
 [Executive Sales Performance Dashboard](https://public.tableau.com/app/profile/data.analyst.iqbal/viz/ExecutiveSalesPerformanceDashboard_17785588068340/ExecutiveSalesDashboard)
+
 ---
 
 ## Business Questions
@@ -48,6 +49,17 @@ This dashboard is designed to answer the following business questions:
 - Geographic Sales Visualization
 - Interactive Dashboard Layout
 - Business Storytelling with Data
+
+---
+
+## Dashboard Highlights
+
+- Interactive executive-level dashboard
+- Regional profitability analysis
+- Product category performance insights
+- Geographic sales distribution
+- KPI-driven business monitoring
+- Business storytelling with visualization
 
 ---
 
