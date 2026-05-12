@@ -22,8 +22,7 @@ The objective of this project is to demonstrate advanced data visualization, sto
 
 View the interactive dashboard here:
 
-[Tableau Public Dashboard](https://public.tableau.com)
-
+[Executive Sales Performance Dashboard](https://public.tableau.com/app/profile/data.analyst.iqbal/viz/ExecutiveSalesPerformanceDashboard_17785588068340/ExecutiveSalesDashboard)
 ---
 
 ## Business Questions
