@@ -144,6 +144,4 @@ tableau-executive-sales-dashboard/
 
 ## Author
 
-Ahmad Iqbal Maulana  
-- LinkedIn: https://www.linkedin.com/in/ahmad-iqbal-maulana-9669b8228  
-- GitHub: https://github.com/yourvaiqbal  
+Ahmad Iqbal Maulana  - Data Analyst
